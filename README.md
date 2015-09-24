@@ -10,4 +10,7 @@ http://brew.sh/
 brew install nvm
 source $(brew --prefix nvm)/nvm.sh
 ```
-3.
+4.bre安装node
+```
+brew install node
+```
