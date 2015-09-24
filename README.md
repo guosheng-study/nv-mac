@@ -2,8 +2,9 @@
 
 * 准备一台苹果电脑    
 * 安装Homebrew    
-https://github.com/Homebrew/homebrew
-http://brew.sh/
+```
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+```
 * brew 来安装 nvm    
 ```js
 brew install nvm
