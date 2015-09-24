@@ -9,3 +9,13 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 ```js
 brew install node 
 ```
+* 安装react
+```
+npm install -g react-native-cli
+```
+* 创建工程
+```
+react-native init AwesomeProject
+```
+*
+
