@@ -5,11 +5,11 @@
 https://github.com/Homebrew/homebrew
 http://brew.sh/
 3. brew 来安装 nvm    
-```
+```js
 brew install nvm
 source $(brew --prefix nvm)/nvm.sh
 ```
 4. brew 来安装 node    
-```
+```js
 brew install node 
 ```
