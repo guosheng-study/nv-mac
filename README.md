@@ -1,10 +1,10 @@
 # 开发环境搭建
 
-1. OS X - 当前仅支持 OS X
-
-2. 使用 Homebrew 来安装 nvm
+1. 准备一台苹果电脑    
+2. 安装Homebrew    
+3. brew 来安装 nvm    
 ```
 brew install nvm
+source $(brew --prefix nvm)/nvm.sh
 ```
-
 3.
