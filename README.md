@@ -12,5 +12,5 @@ source $(brew --prefix nvm)/nvm.sh
 ```
 4. brew安装node
 ```
-brew install node
+brew install node 
 ```
