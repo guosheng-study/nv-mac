@@ -4,7 +4,6 @@
 2. 安装Homebrew    
 https://github.com/Homebrew/homebrew
 http://brew.sh/
-
 3. brew 来安装 nvm    
 ```
 brew install nvm
