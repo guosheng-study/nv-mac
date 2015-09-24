@@ -4,7 +4,7 @@
 
 2. 使用 Homebrew 来安装 nvm
 ```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.26.1/install.sh | bash
+brew install nvm
 ```
 
 3.
