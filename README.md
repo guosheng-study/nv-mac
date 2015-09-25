@@ -13,10 +13,8 @@ brew install node
 * 安装react
 ```
 npm install -g react-native-cli
-```
-* 创建工程
-```
-react-native init AwesomeProject
-```
-*
 
+//如果不是administrator帐号
+sudo npm install -g react-native-cli
+
+```
