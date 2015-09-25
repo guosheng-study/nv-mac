@@ -6,6 +6,7 @@
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 ```
 * 安装node    
+用命令装可能装不到最新版本，可以到官网下载，然后进行安装。
 ```js
 brew install node 
 ```
